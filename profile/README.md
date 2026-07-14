@@ -22,7 +22,25 @@ by an OS-style desktop with its own App Store.
 Most teams stitch their back office together from a dozen SaaS logins. Sentroy is
 that dozen — behind **one account and one desktop**:
 
-📧 Mail &nbsp;·&nbsp; 🗂️ Storage + CDN &nbsp;·&nbsp; 🔑 Auth &nbsp;·&nbsp; 🔐 Vault &nbsp;·&nbsp; 📊 Status &nbsp;·&nbsp; 🎧 Studio &nbsp;·&nbsp; 💬 WhatsApp &nbsp;·&nbsp; ✅ Linear Lite &nbsp;·&nbsp; 🛠️ Tools &nbsp;·&nbsp; 💾 Backup &nbsp;·&nbsp; 🎬 Video editor
+<div align="center">
+<table>
+<tr>
+<td align="center" width="92"><img src="assets/apps/mail.webp" width="46" height="46"><br><sub><b>Mail</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/storage.webp" width="46" height="46"><br><sub><b>Storage</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/auth.webp" width="46" height="46"><br><sub><b>Auth</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/vault.webp" width="46" height="46"><br><sub><b>Vault</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/status.webp" width="46" height="46"><br><sub><b>Status</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/studio.webp" width="46" height="46"><br><sub><b>Studio</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="92"><img src="assets/apps/whatsapp.webp" width="46" height="46"><br><sub><b>WhatsApp</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/linear.webp" width="46" height="46"><br><sub><b>Linear</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/tools.webp" width="46" height="46"><br><sub><b>Tools</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/backup.webp" width="46" height="46"><br><sub><b>Backup</b></sub></td>
+<td align="center" width="92"><img src="assets/apps/opencut.webp" width="46" height="46"><br><sub><b>Video</b></sub></td>
+</tr>
+</table>
+</div>
 
 ### Fair Source — read every line
 
