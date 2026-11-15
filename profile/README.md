@@ -8,7 +8,7 @@
 ### Your whole back office. One login, one desktop.
 
 Transactional email, object storage + CDN, authentication, status pages, a music
-studio, a WhatsApp inbox, encrypted backups, and developer tools — tied together
+studio, a WhatsApp inbox, encrypted backups, time tracking, and developer tools — tied together
 by an OS-style desktop with its own App Store.
 
 [**Website**](https://sentroy.com) · [**Docs**](https://docs.sentroy.com) · [**Desktop app**](https://sentroy.com/download) · [**Source**](https://github.com/Sentroy-Co/sentroy)
@@ -38,6 +38,7 @@ that dozen — behind **one account and one desktop**:
 <td align="center" width="92"><img src="assets/apps/tools.webp" width="46" height="46"><br><sub><b>Tools</b></sub></td>
 <td align="center" width="92"><img src="assets/apps/backup.webp" width="46" height="46"><br><sub><b>Backup</b></sub></td>
 <td align="center" width="92"><img src="assets/apps/opencut.webp" width="46" height="46"><br><sub><b>Video</b></sub></td>
+<td align="center" width="92"><a href="https://github.com/Sentroy-Co/sentroy-monitor-desktop"><img src="assets/apps/monitor.webp" width="46" height="46"></a><br><sub><b>Monitor</b></sub></td>
 </tr>
 </table>
 </div>
@@ -53,6 +54,7 @@ use it, modify it, and self-host it freely.
 |---|---|
 | **[sentroy](https://github.com/Sentroy-Co/sentroy)** | The whole platform — self-host with one `docker compose` command. FSL-1.1-ALv2. |
 | **[sentroy-desktop](https://github.com/Sentroy-Co/sentroy-desktop)** | Native desktop app for Windows, macOS & Linux — sentroy.com in a fast native window. FSL-1.1-ALv2. |
+| **[sentroy-monitor-desktop](https://github.com/Sentroy-Co/sentroy-monitor-desktop)** | Sentroy Monitor: time and activity tracking for teams. Tray app for macOS, Windows & Linux, plus a self-hostable server. FSL-1.1-ALv2. |
 | **[client-sdk](https://github.com/Sentroy-Co/client-sdk)** | Official SDKs — TypeScript, Go, Python, PHP. MIT. |
 | **[create-sentroy-app](https://github.com/Sentroy-Co/create-sentroy-app)** | `npm create sentroy-app` — scaffold a Sentroy-powered app. MIT. |
 | **[opencut-sentroy-edition](https://github.com/Sentroy-Co/opencut-sentroy-edition)** | The timeline video editor that slots into the desktop. |
